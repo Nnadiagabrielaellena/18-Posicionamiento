@@ -1,0 +1,45 @@
+header{
+      height: 300px;
+      border: solid 2px black;
+      
+}
+
+.azul{
+      padding-top:  20px;
+      display: flex;
+      height: 150px;
+      width: 100%;
+      background-color: aqua;
+      
+}
+.icon-conteiner{
+      position: relative;
+      left: 1200px;
+      font-size: 50px;
+      
+}
+.icon-contener-izq{
+      font-size: 50px;
+}
+.notificacion{
+      background-color: red;
+      color: white;
+      border-radius: 50%;
+      font-size: 12px;
+      text-align: center;
+      padding: 5px 10px;
+      position: absolute;
+      top: -8px;
+      right: 0;
+
+      z-index: 1;
+
+}
+.verde{
+      background-color: aquamarine;
+      height: 150px;
+     
+}
+
+
+

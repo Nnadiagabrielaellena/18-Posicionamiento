@@ -1,0 +1,29 @@
+body{
+      height: 600px;
+      width: 600px;
+      border: solid 2px black;
+      
+}
+
+.box-rojo{
+      height: 300px;
+      width: 300px;
+      background-color: red;
+      position: relative;
+      bottom: -285px;
+      left: 300px;
+
+
+}
+.box-verde{
+      height: 200px;
+      width: 200px;
+      background-color:green;
+      position: relative;
+      left: 400px;
+      bottom: 320px;
+      
+     
+
+}
+

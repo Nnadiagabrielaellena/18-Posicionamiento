@@ -1,0 +1,32 @@
+body{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+}
+
+.card{
+      height: 400px;
+      width: 400px;
+border: solid 2px black;
+
+}
+.img-cara{
+      height: 280px;
+      border-radius: 50%;
+      position: relative;
+      left: 40px;
+}
+.img-bandera{
+      height: 40px;
+      position: relative;
+      left: 240px;
+      top: 20px;
+      z-index: 1;
+
+}
+.nombre{
+      font-size: 10px;
+      color: darkgrey;
+}
